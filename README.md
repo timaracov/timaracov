@@ -11,7 +11,10 @@
 
 
 ## Technologies I use:
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,flask,fastapi,vim,vscode,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,vim,vscode,md)](https://skillicons.dev)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
 <!-- ## Technoligies I learn:
