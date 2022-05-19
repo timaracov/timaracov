@@ -14,6 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=arch,py,vim,vscode,regex,md,bash, zsh)](https://skillicons.dev)
 
 
-## Technoligies I learn:
+<!-- ## Technoligies I learn:
 
 [![My Skills](https://skillicons.dev/icons?i=go,redis, postgresql,c)](https://skillicons.dev)
+ -->
