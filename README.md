@@ -9,9 +9,8 @@
   
 </div>
 
-## 🧑‍🏫 I'm a beginner backend developer and student from Russia.
 
 ## Technologies I use:
-[![My Skills](https://skillicons.dev/icons?i=py,vim,vscode,regex,redis,md,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,py,vim,vscode,regex,md,bash, zsh&perline=8)](https://skillicons.dev)
 ## Technoligies I learn:
-
+[![My Skills](https://skillicons.dev/icons?i=go,redis, postgresql,c&perline=8)](https://skillicons.dev)
