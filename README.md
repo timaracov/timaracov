@@ -37,3 +37,4 @@
 * [Telegram](https://t.me/timaracov)
 * [Github](https://github.com/timaracov)
 * [VK](https://vk.com/timofeyneyenburg)
+* [Personal page](https://timaracov.github.io)
