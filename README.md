@@ -29,8 +29,8 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 🖥 Social media:
-```
+
 * ![Codewars](https://www.codewars.com/users/timaracov)
 * ![Telegram](https://t.me/timaracov)
 * ![Github](https://github.com/timaracov)
-```
+
