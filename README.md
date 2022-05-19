@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Tim.
 
----
-
 <div align="left">
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/timaracov)
@@ -11,4 +9,4 @@
   
 </div>
 
-
+---
