@@ -11,9 +11,9 @@
 
 
 ## Technologies I use:
-[![My Skills](https://skillicons.dev/icons?i=arch,py,vim,vscode,regex,md,bash, zsh&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,py,vim,vscode,regex,md,bash, zsh)](https://skillicons.dev)
 
 
 ## Technoligies I learn:
 
-[![My Skills](https://skillicons.dev/icons?i=go,redis, postgresql,c&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,redis, postgresql,c)](https://skillicons.dev)
