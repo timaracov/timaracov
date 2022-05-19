@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tim.
+# 👋 Hi there,  I'm Tim.
 
 <div align="left">
 
@@ -9,4 +9,9 @@
   
 </div>
 
----
+## 🧑‍🏫 I'm a beginner backend developer and student from Russia.
+
+## Technologies I use:
+[![My Skills](https://skillicons.dev/icons?i=py,vim,vscode,regex,redis,md,bash&perline=8)](https://skillicons.dev)
+## Technoligies I learn:
+
