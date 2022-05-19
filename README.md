@@ -1,9 +1,11 @@
 # 👋 Hi there,  I'm Tim.
 
 <div align="left">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true&theme=onedark)](https://github.com/timaracov/github-readme-stats)
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timaracov&show_icons=true&theme=onedark&layout=compact)](https://github.com/timaracov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true&theme=onedark)](https://github.com/timaracov/github-readme-stats)
+
   
 </div>
 
