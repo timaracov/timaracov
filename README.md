@@ -34,4 +34,3 @@
 * [Telegram](https://t.me/timaracov)
 * [Github](https://github.com/timaracov)
 * [VK](https://vk.com/timofeyneyenburg)
-* [Gmail](neyenburgz@gmail.com)
