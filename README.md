@@ -11,8 +11,8 @@
 
 
 ## Technologies I use:
-
 [![My Skills](https://skillicons.dev/icons?i=arch,py,vim,vscode,regex,md,bash, zsh&perline=8)](https://skillicons.dev)
+
 
 ## Technoligies I learn:
 
