@@ -3,8 +3,7 @@
 <div align="left">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true&theme=onedark)](https://github.com/timaracov/github-readme-stats)
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+
   
 </div>
 
@@ -29,6 +28,9 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 ## 🖥 Social media:
 
