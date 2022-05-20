@@ -3,14 +3,6 @@
 <div align="left">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true&theme=onedark)](https://github.com/timaracov/github-readme-stats)
-
-## Todoist:
-<!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
   
 </div>
 
