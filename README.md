@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true&theme=onedark)](https://github.com/timaracov/github-readme-stats)
 
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
   
 </div>
 
@@ -29,12 +31,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
 
 ## 🖥 Social media:
 
