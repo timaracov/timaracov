@@ -2,7 +2,7 @@
 
 <div align="left">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true&theme=nord)](https://github.com/timaracov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true)](https://github.com/timaracov/github-readme-stats)
   
 </div>
 
