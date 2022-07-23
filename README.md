@@ -1,11 +1,5 @@
 # 👋 Hi there,  I'm Tim.
 
-<div align="left">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timaracov&show_icons=true)](https://github.com/timaracov/github-readme-stats)
-  
-</div>
-
 
 ## 🛠 Technologies I use:
 
