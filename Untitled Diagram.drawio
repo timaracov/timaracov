@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T20:18:31.108Z" agent="5.0 (X11; Ubuntu)" etag="KvqN2h-drvLCgu3LSEP3" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T20:18:55.572Z" agent="5.0 (X11; Ubuntu)" etag="Mb18KxwBPG3xCW86bNxC" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1646" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="1595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -189,9 +189,6 @@
         </mxCell>
         <mxCell id="wG_yYaYY8hXV5M6jzsUb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wG_yYaYY8hXV5M6jzsUb-54" target="wG_yYaYY8hXV5M6jzsUb-61">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wG_yYaYY8hXV5M6jzsUb-79" value="Расписания(1С?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="633" y="535" width="186" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wG_yYaYY8hXV5M6jzsUb-82" value="&lt;div align=&quot;left&quot;&gt;API универа&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=40;align=left;size=0.09220751942869197;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1239" y="733" width="1575" height="112" as="geometry" />
