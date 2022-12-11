@@ -26,7 +26,7 @@
 ## 🖥 Social media:
 
 * [Codewars](https://www.codewars.com/users/timaracov)
-![](https://www.codewars.com/users/timaracov/badges/micro)
+* ![](https://www.codewars.com/users/timaracov/badges/micro)
 * [Telegram](https://t.me/timaracov)
 * [Github](https://github.com/timaracov)
 <!---
