@@ -16,7 +16,10 @@ Current job: Python backend developer, ITWorkin.
 * German - learning
 * Golang, C - basics
 * Html/css/js - basics
+## Other platforms:
+* [Leetcode](https://leetcode.com/timaracov/)
+* [Codewars](https://www.codewars.com/users/timaracov) 
 ## Contact me:
-* [Codewars](https://www.codewars.com/users/timaracov)
 * [Telegram](https://t.me/timaracov)
 * [VK](https://vk.com/neyenburgt)
+* [Mail](neyenburgz@mail.ru)
