@@ -17,7 +17,7 @@ Current job: Python backend developer, ITWorkin.
 ### Languages:
 * English - B2
 * Russian - fluent
-* German - learning
+* German - A1
 ## Other platforms:
 * [Leetcode](https://leetcode.com/timaracov/)
 * [Codewars](https://www.codewars.com/users/timaracov) 
